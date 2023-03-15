@@ -3,7 +3,7 @@ pragma solidity ^0.8.0;
 
 import "./SneakerNFT.sol";
 
-contract SampleFactory {
+contract SneakerFactory {
     address[] public nfts;
 
     function createSneakerNFT() public returns (address) {
