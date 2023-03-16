@@ -154,3 +154,5 @@ typechain-types
 cache
 artifacts
 
+.privateKey
+
